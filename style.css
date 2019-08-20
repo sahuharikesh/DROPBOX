@@ -1,0 +1,103 @@
+#para1
+{
+    
+    margin-bottom: -5px;
+    font-size: 80px;
+    color: rgb(212, 236, 245)
+     
+}
+.div1{
+    padding-top: 50px
+}
+.bgcol
+{
+    background-color: rgb(110, 29, 93);
+    padding-bottom: 173px;
+    padding-top: 60px
+    
+}
+.para2
+{
+    color: white
+}
+.textb{
+    padding-bottom: 15px;
+    padding-left:- 10px;
+    padding-right: -15px
+}
+#log
+{
+    padding: 60px 40px;
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+.text{
+    color: rgb(212, 236, 245);
+    padding-top: 20px;
+}
+.text2{
+
+    padding-top: 170px;
+    color: rgb(73, 73, 209)
+}
+.di2
+{
+    padding-top: 150px;
+    padding-bottom: 150px
+}
+.bgco2{
+    background-color:rgb(247, 133, 152)
+}
+.txta
+{
+    padding-left: 80px;
+    
+    padding-top: 150px;
+}
+.im2{
+    padding-left: -30px
+}
+.bgco3
+{
+    background-color: rgb(41, 102, 65)
+}
+.txt2{
+    color: rgb(238, 238, 5);
+    padding-left: 80px;
+    
+    padding-top: 160px;
+}
+.txt3
+{
+    color: white;
+    padding-left: 80px;
+    font-size: 20px
+}
+.txt4{
+    padding-top: 160px;
+    font-size: 45px;
+}
+.txt5
+{
+    padding-bottom: 160px
+}
+.txt6{
+    color:white;
+    background-color: black;
+    padding-bottom: 150px;
+    padding-top: 150px
+}
+.nav{
+    background-color: transparent;
+    font-size: 15px;
+    border:white;
+
+    
+}
+.fon{
+    font-family: cursive;
+    font-size: 30px;
+    color: white
+
+}
